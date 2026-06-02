@@ -1,2 +1,2 @@
-# Ponk-GS
+# Pong-GS
 My Fork Game
